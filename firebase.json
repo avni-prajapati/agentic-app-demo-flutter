@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "agentic-app-demo",
+                    "appId": "1:380100433149:android:ba72d31933f42c1ac95a94",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "agentic-app-demo",
+                    "configurations": {
+                        "android": "1:380100433149:android:ba72d31933f42c1ac95a94"
+                    }
+                }
+            }
+        }
+    }
+}
