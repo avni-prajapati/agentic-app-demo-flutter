@@ -4,7 +4,7 @@
 
 A Flutter application demonstrating agentic AI capabilities with Firebase integration. This app showcases how to build intelligent, context-aware applications using Flutter and Firebase AI services.
 
-<img src="agentic-app.gif" width="300" height="200">
+<img src="agentic-app.gif" height="500">
 
 ## ✨ Features
 
