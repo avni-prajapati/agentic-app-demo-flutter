@@ -26,7 +26,7 @@ A Flutter application demonstrating agentic AI capabilities with Firebase integr
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/agentic-app-demo-flutter.git
+git clone https://github.com/avni-prajapati/agentic-app-demo-flutter.git
 cd agentic-app-demo-flutter
 ```
 
